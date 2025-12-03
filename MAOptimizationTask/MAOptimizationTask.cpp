@@ -13,7 +13,7 @@ bool isPrimeBase(int n)
     return true;
 }
 
-std::vector<int> primesArray(int min, int max, int count)
+std::vector<int> primesArray(int min, int max, int count) // alala
 {
     std::vector<int> primes;
     srand(0);
